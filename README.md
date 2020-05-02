@@ -38,7 +38,7 @@
 Pelo terminal, acesse o diretório em que deseja ter o repositório clonado e execute o comando a seguir.
 ```bash
 # clonando o repositório
-git clone https://github.com/belapferreira/desafio07-arquitetura-flux-rocketshoes
+git clone https://github.com/belapferreira/desafio08-react-hooks-rocketshoes.git
 ```
 ### :computer: Iniciando o frontend
 Pelo terminal, acesse o diretório fronted do repositório clonado e execute os seguintes comandos separadamente.
